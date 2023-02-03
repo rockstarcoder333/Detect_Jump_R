@@ -2,22 +2,6 @@
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **JumpDetectR** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
-```yaml
-
-Name of QuantLet : JumpDetectR
-
-Published in : 'Understanding Jumps in High Frequency Digital Asset Markets'
-
-Description : 'Scalable implementation of Lee / Mykland (2012) and Ait-Sahalia / Jacod / Li (2012) Jump tests for noisy high frequency data'
-
-Keywords : Jumps, jump test, high frequency, time series, Ait-Sahalia, Jacod, Lee, Mykland, stochastic processes, cryptocurrencies, cryptocurrency, crypto, spectrogram, microstructure, market microstructure noise, contagion, shocks
-
-See also : 'Lee, S.S. and Mykland, P.A. (2012) Jumps in Equilibrium Prices and Market Microstructure Noise; Ait-Sahalia, Y. and Jacod, J., Jia Li (2012) Testing for jumps in noisy high frequency data'
-
-Authors : Danial Florian Saef, Odett Nagy
-
-Submitted : May 7 2021 by Danial Saef
-```
 
 ![Picture1](jump_ltj.png)
 
@@ -93,4 +77,3 @@ fwrite(DT_AJL_result_id, file = "./data/JumpTestResult/DT_AJL_result_id.csv")
 ## ##
 ```
 
-automatically created on 2021-05-17
